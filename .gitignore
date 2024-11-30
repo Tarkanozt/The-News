@@ -10,7 +10,9 @@
 
 # production
 /build
-/android
+
+# production for android
+/the-news/android/
 
 # misc
 .DS_Store
